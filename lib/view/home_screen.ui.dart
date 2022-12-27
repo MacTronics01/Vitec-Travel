@@ -316,7 +316,7 @@ class _LocationCardState extends State<LocationCard> {
                     ),
                     10.0.sbH,
                      Container(
-                       color: AppColors.avatarColor,width:250,height: 1,)
+                       color: AppColors.avatarColor,width:200,height: 1,)
                   ],
                 )
               ],
