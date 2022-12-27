@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.set_up1">
    <application
-        android:label="Travel"
+        android:label="Vitec Travel"
         android:name="${applicationName}"
         android:icon="@mipmap/launcher_icon">
         <activity
